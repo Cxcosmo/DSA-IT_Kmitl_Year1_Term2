@@ -1,3 +1,9 @@
+#Input : พื้นที่ ที่จะจอง ( int )
+#Input : I = {"id":"xxxxxx","name":"xxxxxx","gpa":xxx}
+#Input : S = ID ที่จะหา
+#...
+#Done
+
 class Student :
     def __init__(self, std_id: int, name: str, gpa: float) :
         self.__std_id = std_id

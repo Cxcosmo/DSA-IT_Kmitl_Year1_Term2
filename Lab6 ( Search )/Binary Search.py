@@ -1,3 +1,6 @@
+#Input : [{"id":"xxxxxx","name":"xxxxxx","gpa":xxx}, ...] ใส่รายละเอียด Student เองนะถ้าจะลองโค้ด
+#Input : Name ที่จะหา
+
 class Student :
     def __init__(self, std_id: int, name: str, gpa: float) :
         self.__std_id = std_id

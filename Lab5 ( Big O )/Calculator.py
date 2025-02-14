@@ -1,3 +1,12 @@
+#Input : 100
+#Output : 292
+
+#Input : 1000
+#Output : 3893
+
+#Input : 10000
+#Output : 48894
+
 def Calculator(n) :
     if n == 1 :
         result = 1
