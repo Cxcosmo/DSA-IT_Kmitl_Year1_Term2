@@ -13,7 +13,6 @@
 #------------
 #Output : 10 ( ลำดับนักวิ่งที่เร็วสุด )
 
-
 def runner() :
     distance = int(input())
     for i in range(int(input())) :
