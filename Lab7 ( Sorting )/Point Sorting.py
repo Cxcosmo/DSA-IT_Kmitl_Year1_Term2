@@ -7,7 +7,6 @@
 #Input : -5 20
 #Input : 1 1
 #Input : 10 3
-#-------------
 #Output : 2 8
 #Output : 10 0
 #Output : 1 1
